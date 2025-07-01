@@ -1,4 +1,5 @@
 # researcher_agent_watsonxai
+watsonx.ai에서 agent lab을 통하여 에이전트를 빌드하고 space에 배포한 서비스임.
 
 ```curl
 curl -X POST "https://research-agent-app.1wrbgjmhze46.us-south.codeengine.appdomain.cloud/chat/completions" \
